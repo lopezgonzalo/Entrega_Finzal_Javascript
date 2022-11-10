@@ -1,0 +1,80 @@
+.foto{
+    display: flex;
+    justify-content:space-between ;
+    justify-content: start;
+    width: 60px;
+    height: 60px;
+}
+h1{
+  font-weight: bold;
+  font-family: cursive;
+}
+h2{
+  display: flex;
+  justify-content: center;
+}
+img {
+    width: 250px;
+    height: 250px;
+  }
+  
+  .selector-for-some-widget {
+    box-sizing: content-box;
+  }
+  #botonInput{
+    font-size: 1em;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 1px, 2px, 10px rgba(0, 0, 0, 0.753);
+    background: darkgoldenrod;
+    color: red; 
+  }
+  #botonVaciar{
+    font-size: 1em;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 1px, 2px, 10px rgba(0, 0, 0, 0.753);
+    background: darkgoldenrod;
+    color: red; 
+  }
+  #listaProductosComprados{
+    font-size: 1em;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 1px, 2px, 10px rgba(0, 0, 0, 0.753);
+    background: darkgoldenrod;
+    color: red; 
+  }
+  
+  .bg-success {
+    --bs-bg-opacity: 1;
+    background-color: rgba(
+      var(--bs-success-rgb),
+      var(--bs-bg-opacity)
+    ) !important;
+  }
+  
+  body{
+    background: wheat;
+  }
+
+  #cards{
+    display: flex;
+    justify-content: center;
+  }
+  .iconoCarrito{
+    margin-left: 96vw;
+    width: 2.5vw;
+    height: auto;
+  }
+  
+  .titulo{
+    margin-top: 70vw;
+  }
+
+  header{
+    color: rgb(3, 28, 43);
+  }
