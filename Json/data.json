@@ -1,0 +1,80 @@
+[ 
+    {
+   "id":1,
+   "nombre": "Pampa Honey 473cc",
+   "precio": 320,
+   "imagen": "../fotos/Pampa_Honey.webp"
+   },
+   {
+   "id":2,
+   "nombre": "Pampa Cream Stout",
+   "precio": 320,
+   "imagen":  "../fotos/Pampa_cream_stout.webp"
+   },
+   {
+   "id":3,
+   "nombre": "Rabieta American Ipa",
+   "precio": 320,
+   "imagen": "../fotos/Rabieta_American_ipa.webp"
+   },
+   {
+   "id":4,
+   "nombre": "Peñon Del Aguila Hefeweizen",
+   "precio": 320,
+   "imagen": "../fotos/Peñon_Del_Aguila_Hefeweizen.webp"
+   },
+   {
+   "id":5,
+   "nombre": "Rabieta Red Honey",
+   "precio": 320,
+   "imagen": "../fotos/Rabieta_Red_Honey.webp"
+   },
+   {
+   "id":6,
+   "nombre": "Pampa Dorada Pampeana",
+   "precio": 320,
+   "imagen": "../fotos/Pampa_Dorada_Pampeana.webp"
+   },
+   {
+   "id":7,
+   "nombre": "Pampa Ipa",
+   "precio": 320,
+   "imagen": "../fotos/Pampa_Ipa.webp"
+   },
+   {
+   "id":8,
+   "nombre": "Pampa Amber Ale",
+   "precio": 320,
+   "imagen":  "../fotos/Pampa_Amber_Ale.webp"
+   },
+   {
+   "id":9,
+   "nombre": "Rabieta Red Ipa",
+   "precio": 320,
+   "imagen": "../fotos/Rabieta_Red_ipa.webp"
+   },
+   {
+   "id":10,
+   "nombre": "Antares Honey",
+   "precio": 320,
+   "imagen": "../fotos/Antares_Honey.webp"
+   },
+   {
+   "id":11,
+   "nombre": "Antares Caravana Ipa",
+   "precio": 320,
+   "imagen": "../fotos/Antares_Caravana_Ipa.webp"
+   },
+   {
+   "id":12,
+   "nombre": "Antares Kolsch",
+   "precio": 320,
+   "imagen": "../fotos/Antares_kolsch.webp"
+   },
+   {
+    "id":13,
+    "nombre": "Antares Atlantica Rubia",
+    "precio": 320,
+    "imagen": "../fotos/Antares_atlantica_rubia.webp"
+    }
+]
